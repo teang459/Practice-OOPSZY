@@ -1,1 +1,1 @@
-# Practice-OOPSZY
+# PRAKTIKA OOPSZY
